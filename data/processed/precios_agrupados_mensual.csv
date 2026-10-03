@@ -1,0 +1,733 @@
+Periodo,Producto,Precio_Minimo,Volumen_Total
+2021-01,Maiz Marlo / Coronta De Maiz,7.61,0.0
+2021-01,Maiz Morado,1.92,12.0
+2021-01,Papa Amarilla,1.96,1036.0
+2021-01,Papa Blanca,0.63,11683.0
+2021-01,Papa Canchan,0.7,307.0
+2021-01,Papa Color,0.67,396.0
+2021-01,Papa Huamantanga,1.33,18.0
+2021-01,Papa Huayro,1.66,22.0
+2021-01,Papa Negra Andina,0.74,0.0
+2021-01,Papa Peruanita,1.85,57.0
+2021-01,Papa Unica,0.58,230.0
+2021-01,Papa Yungay,0.63,1125.0
+2021-02,Maiz Marlo / Coronta De Maiz,8.0,0.0
+2021-02,Maiz Morado,2.09,0.0
+2021-02,Papa Amarilla,2.13,500.0
+2021-02,Papa Blanca,0.55,11612.0
+2021-02,Papa Canchan,0.84,673.0
+2021-02,Papa Color,0.86,646.0
+2021-02,Papa Huamantanga,1.26,0.0
+2021-02,Papa Huayro,1.32,0.0
+2021-02,Papa Negra Andina,0.71,0.0
+2021-02,Papa Peruanita,1.79,72.0
+2021-02,Papa Unica,0.83,207.0
+2021-02,Papa Yungay,0.55,1970.0
+2021-03,Maiz Marlo / Coronta De Maiz,7.39,0.0
+2021-03,Maiz Morado,2.68,17.0
+2021-03,Papa Amarilla,2.17,979.0
+2021-03,Papa Blanca,0.73,13022.0
+2021-03,Papa Canchan,1.11,314.0
+2021-03,Papa Color,1.15,589.0
+2021-03,Papa Huamantanga,1.35,0.0
+2021-03,Papa Huayro,1.28,29.0
+2021-03,Papa Negra Andina,0.91,0.0
+2021-03,Papa Peruanita,1.95,12.0
+2021-03,Papa Unica,1.11,344.0
+2021-03,Papa Yungay,0.73,1557.0
+2021-04,Maiz Marlo / Coronta De Maiz,8.0,0.0
+2021-04,Maiz Morado,2.13,12.0
+2021-04,Papa Amarilla,1.8,1122.0
+2021-04,Papa Blanca,0.75,13530.0
+2021-04,Papa Canchan,1.31,296.0
+2021-04,Papa Color,1.3,1219.0
+2021-04,Papa Huamantanga,1.36,0.0
+2021-04,Papa Huayro,0.92,0.0
+2021-04,Papa Negra Andina,0.98,16.0
+2021-04,Papa Peruanita,1.6,17.0
+2021-04,Papa Unica,1.25,221.0
+2021-04,Papa Yungay,0.75,1619.0
+2021-05,Maiz Marlo / Coronta De Maiz,7.52,0.0
+2021-05,Maiz Morado,1.89,17.0
+2021-05,Papa Amarilla,1.56,1513.0
+2021-05,Papa Blanca,0.7,14509.0
+2021-05,Papa Canchan,1.21,331.0
+2021-05,Papa Color,1.25,690.0
+2021-05,Papa Huamantanga,1.27,20.0
+2021-05,Papa Huayro,0.86,28.0
+2021-05,Papa Negra Andina,0.88,0.0
+2021-05,Papa Peruanita,1.26,2.0
+2021-05,Papa Unica,1.23,273.0
+2021-05,Papa Yungay,0.7,1608.0
+2021-06,Maiz Marlo / Coronta De Maiz,7.1,0.0
+2021-06,Maiz Morado,2.12,16.0
+2021-06,Papa Amarilla,1.37,920.0
+2021-06,Papa Blanca,0.75,15251.0
+2021-06,Papa Canchan,1.27,294.0
+2021-06,Papa Color,1.31,669.0
+2021-06,Papa Huamantanga,1.41,0.0
+2021-06,Papa Huayro,1.01,52.0
+2021-06,Papa Negra Andina,1.04,0.0
+2021-06,Papa Peruanita,1.12,0.0
+2021-06,Papa Unica,1.34,95.0
+2021-06,Papa Yungay,0.75,1491.0
+2021-07,Maiz Marlo / Coronta De Maiz,6.48,0.0
+2021-07,Maiz Morado,2.04,41.0
+2021-07,Papa Amarilla,1.36,488.0
+2021-07,Papa Blanca,0.85,12614.0
+2021-07,Papa Canchan,1.27,127.0
+2021-07,Papa Color,1.35,635.0
+2021-07,Papa Huamantanga,1.5,40.0
+2021-07,Papa Huayro,1.0,27.0
+2021-07,Papa Negra Andina,1.18,0.0
+2021-07,Papa Peruanita,1.16,1.0
+2021-07,Papa Unica,1.4,70.0
+2021-07,Papa Yungay,0.85,1617.0
+2021-08,Maiz Marlo / Coronta De Maiz,7.55,0.0
+2021-08,Maiz Morado,1.99,21.0
+2021-08,Papa Amarilla,1.54,717.0
+2021-08,Papa Blanca,0.93,9608.0
+2021-08,Papa Canchan,1.21,87.0
+2021-08,Papa Color,1.24,520.0
+2021-08,Papa Huamantanga,1.46,0.0
+2021-08,Papa Huayro,1.09,14.0
+2021-08,Papa Negra Andina,1.08,0.0
+2021-08,Papa Peruanita,1.14,25.0
+2021-08,Papa Unica,1.21,191.0
+2021-08,Papa Yungay,0.93,1179.0
+2021-09,Maiz Marlo / Coronta De Maiz,7.2,0.0
+2021-09,Maiz Morado,2.08,14.0
+2021-09,Papa Amarilla,1.43,1172.0
+2021-09,Papa Blanca,1.03,8256.0
+2021-09,Papa Canchan,1.04,47.0
+2021-09,Papa Color,1.04,171.0
+2021-09,Papa Huamantanga,1.38,0.0
+2021-09,Papa Huayro,1.11,13.0
+2021-09,Papa Negra Andina,1.14,0.0
+2021-09,Papa Peruanita,1.12,3.0
+2021-09,Papa Unica,1.01,84.0
+2021-09,Papa Yungay,1.03,967.0
+2021-10,Maiz Marlo / Coronta De Maiz,7.0,0.0
+2021-10,Maiz Morado,2.12,0.0
+2021-10,Papa Amarilla,1.04,1529.0
+2021-10,Papa Blanca,0.98,7191.0
+2021-10,Papa Canchan,0.84,54.0
+2021-10,Papa Color,0.84,272.0
+2021-10,Papa Huamantanga,1.07,15.0
+2021-10,Papa Huayro,0.98,87.0
+2021-10,Papa Negra Andina,1.18,0.0
+2021-10,Papa Peruanita,0.99,31.0
+2021-10,Papa Unica,0.78,57.0
+2021-10,Papa Yungay,0.98,352.0
+2021-11,Maiz Marlo / Coronta De Maiz,7.0,0.0
+2021-11,Maiz Morado,1.91,26.0
+2021-11,Papa Amarilla,1.31,836.0
+2021-11,Papa Blanca,1.0,7565.0
+2021-11,Papa Canchan,0.92,93.0
+2021-11,Papa Color,0.85,325.0
+2021-11,Papa Huamantanga,1.15,0.0
+2021-11,Papa Huayro,1.07,40.0
+2021-11,Papa Negra Andina,1.15,2.0
+2021-11,Papa Peruanita,1.09,20.0
+2021-11,Papa Unica,0.71,57.0
+2021-11,Papa Yungay,1.0,1247.0
+2021-12,Maiz Marlo / Coronta De Maiz,7.68,0.0
+2021-12,Maiz Morado,1.39,43.0
+2021-12,Papa Amarilla,1.62,1807.0
+2021-12,Papa Blanca,0.97,9389.0
+2021-12,Papa Canchan,0.92,19.0
+2021-12,Papa Color,0.91,640.0
+2021-12,Papa Huamantanga,1.21,0.0
+2021-12,Papa Huayro,1.23,0.0
+2021-12,Papa Negra Andina,1.18,0.0
+2021-12,Papa Peruanita,1.37,1.0
+2021-12,Papa Unica,0.83,94.0
+2021-12,Papa Yungay,0.97,739.0
+2022-01,Maiz Marlo / Coronta De Maiz,7.13,0.0
+2022-01,Maiz Morado,1.46,57.0
+2022-01,Papa Amarilla,31.67,340.0
+2022-01,Papa Blanca,194.9,149.0
+2022-01,Papa Color,48.44,12.0
+2022-01,Papa Huamantanga,,11.0
+2022-01,Papa Negra Andina,16.0,0.0
+2022-01,Papa Peruanita,15.33,49.0
+2022-01,Papa Unica,26.5,703.0
+2022-02,Maiz Marlo / Coronta De Maiz,7.21,0.0
+2022-02,Maiz Morado,1.57,23.0
+2022-02,Papa Amarilla,39.27,612.0
+2022-02,Papa Blanca,263.11,78.0
+2022-02,Papa Canchan,15.0,364.0
+2022-02,Papa Color,43.36,59.0
+2022-02,Papa Huamantanga,,61.0
+2022-02,Papa Negra Andina,16.0,0.0
+2022-02,Papa Peruanita,12.5,84.0
+2022-02,Papa Unica,23.86,106.0
+2022-03,Maiz Marlo / Coronta De Maiz,7.13,0.0
+2022-03,Maiz Morado,2.14,31.0
+2022-03,Papa Amarilla,49.12,864.0
+2022-03,Papa Blanca,264.9,135.0
+2022-03,Papa Canchan,4.0,252.0
+2022-03,Papa Color,47.55,52.0
+2022-03,Papa Huamantanga,25.0,389.0
+2022-03,Papa Negra Andina,29.0,0.0
+2022-03,Papa Peruanita,16.33,115.0
+2022-03,Papa Unica,50.59,604.0
+2022-04,Maiz Marlo / Coronta De Maiz,8.0,0.0
+2022-04,Maiz Morado,2.59,0.0
+2022-04,Papa Amarilla,52.54,491.0
+2022-04,Papa Blanca,272.33,138.0
+2022-04,Papa Canchan,,642.0
+2022-04,Papa Color,42.77,82.0
+2022-04,Papa Huamantanga,28.67,362.0
+2022-04,Papa Huayro,34.0,34.0
+2022-04,Papa Peruanita,15.5,72.0
+2022-04,Papa Unica,44.94,289.0
+2022-05,Maiz Marlo / Coronta De Maiz,9.0,0.0
+2022-05,Maiz Morado,3.41,0.0
+2022-05,Papa Amarilla,93.82,799.0
+2022-05,Papa Blanca,207.74,52.0
+2022-05,Papa Canchan,9.5,534.0
+2022-05,Papa Color,29.33,159.0
+2022-05,Papa Huamantanga,33.0,441.0
+2022-05,Papa Huayro,32.0,32.0
+2022-05,Papa Negra Andina,18.0,0.0
+2022-05,Papa Peruanita,11.5,220.0
+2022-05,Papa Unica,35.71,566.0
+2022-06,Maiz Marlo / Coronta De Maiz,9.23,0.0
+2022-06,Maiz Morado,3.92,0.0
+2022-06,Papa Amarilla,94.5,934.0
+2022-06,Papa Blanca,159.14,56.0
+2022-06,Papa Canchan,,601.0
+2022-06,Papa Color,26.0,328.0
+2022-06,Papa Huamantanga,56.2,469.0
+2022-06,Papa Huayro,3.0,3.0
+2022-06,Papa Peruanita,11.67,691.0
+2022-06,Papa Unica,26.65,735.0
+2022-07,Maiz Marlo / Coronta De Maiz,9.55,0.0
+2022-07,Maiz Morado,3.19,14.0
+2022-07,Papa Amarilla,30.0,499.0
+2022-07,Papa Blanca,151.03,97.0
+2022-07,Papa Canchan,,55.0
+2022-07,Papa Color,31.56,248.0
+2022-07,Papa Huamantanga,30.33,74.0
+2022-07,Papa Negra Andina,5.0,0.0
+2022-07,Papa Peruanita,,46.0
+2022-07,Papa Unica,35.29,424.0
+2022-08,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2022-08,Maiz Morado,2.88,0.0
+2022-08,Papa Amarilla,25.57,348.0
+2022-08,Papa Blanca,146.58,231.0
+2022-08,Papa Canchan,,105.0
+2022-08,Papa Color,19.38,141.0
+2022-08,Papa Huamantanga,16.0,254.0
+2022-08,Papa Huayro,4.0,0.0
+2022-08,Papa Negra Andina,7.5,0.0
+2022-08,Papa Peruanita,25.0,81.0
+2022-08,Papa Unica,58.62,1052.0
+2022-09,Maiz Marlo / Coronta De Maiz,9.97,0.0
+2022-09,Maiz Morado,2.35,0.0
+2022-09,Papa Amarilla,27.4,420.0
+2022-09,Papa Blanca,165.7,76.0
+2022-09,Papa Canchan,,224.0
+2022-09,Papa Color,11.92,54.0
+2022-09,Papa Huamantanga,,177.0
+2022-09,Papa Huayro,11.86,52.0
+2022-09,Papa Negra Andina,20.0,0.0
+2022-09,Papa Peruanita,14.0,84.0
+2022-09,Papa Unica,41.81,632.0
+2022-10,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2022-10,Maiz Morado,2.34,38.0
+2022-10,Papa Amarilla,26.83,242.0
+2022-10,Papa Blanca,117.93,84.0
+2022-10,Papa Canchan,5.0,268.0
+2022-10,Papa Color,17.33,11.0
+2022-10,Papa Huamantanga,12.0,175.0
+2022-10,Papa Huayro,23.0,23.0
+2022-10,Papa Negra Andina,16.2,13.0
+2022-10,Papa Peruanita,16.0,0.0
+2022-10,Papa Unica,29.15,437.0
+2022-11,Maiz Marlo / Coronta De Maiz,10.03,0.0
+2022-11,Maiz Morado,1.66,36.0
+2022-11,Papa Amarilla,17.0,402.0
+2022-11,Papa Blanca,153.93,65.0
+2022-11,Papa Canchan,,87.0
+2022-11,Papa Color,23.5,0.0
+2022-11,Papa Huamantanga,,97.0
+2022-11,Papa Negra Andina,20.83,0.0
+2022-11,Papa Peruanita,20.0,69.0
+2022-11,Papa Unica,66.14,620.0
+2022-12,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2022-12,Maiz Morado,1.61,42.0
+2022-12,Papa Amarilla,60.92,277.0
+2022-12,Papa Blanca,161.0,76.0
+2022-12,Papa Canchan,12.0,110.0
+2022-12,Papa Color,22.0,0.0
+2022-12,Papa Huamantanga,18.2,151.0
+2022-12,Papa Negra Andina,19.0,0.0
+2022-12,Papa Peruanita,16.83,100.0
+2022-12,Papa Unica,57.26,520.0
+2023-01,Maiz Marlo / Coronta De Maiz,8.87,0.0
+2023-01,Maiz Morado,1.76,6.0
+2023-01,Papa Amarilla,3.57,518.0
+2023-01,Papa Blanca,1.98,10106.0
+2023-01,Papa Canchan,54.0,255.0
+2023-01,Papa Color,18.0,0.0
+2023-01,Papa Huamantanga,36.86,179.0
+2023-01,Papa Huayro,2.14,5.0
+2023-01,Papa Negra Andina,10.25,41.0
+2023-01,Papa Peruanita,27.33,49.0
+2023-01,Papa Unica,74.67,1372.0
+2023-02,Maiz Marlo / Coronta De Maiz,9.14,0.0
+2023-02,Maiz Morado,3.39,7.0
+2023-02,Papa Amarilla,2.41,390.0
+2023-02,Papa Blanca,1.42,9225.0
+2023-02,Papa Canchan,47.75,240.0
+2023-02,Papa Color,19.0,100.0
+2023-02,Papa Huamantanga,55.5,127.0
+2023-02,Papa Huayro,1.97,2.0
+2023-02,Papa Negra Andina,21.0,42.0
+2023-02,Papa Peruanita,31.45,18.0
+2023-02,Papa Unica,114.04,2017.0
+2023-03,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-03,Maiz Morado,4.27,24.0
+2023-03,Papa Amarilla,2.26,1083.0
+2023-03,Papa Blanca,0.98,14204.0
+2023-03,Papa Canchan,55.7,539.0
+2023-03,Papa Color,16.0,63.0
+2023-03,Papa Huamantanga,69.5,86.0
+2023-03,Papa Huayro,1.37,0.0
+2023-03,Papa Peruanita,24.33,45.0
+2023-03,Papa Unica,120.37,2144.0
+2023-04,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-04,Maiz Morado,4.35,42.0
+2023-04,Papa Amarilla,2.23,550.0
+2023-04,Papa Blanca,0.83,13553.0
+2023-04,Papa Canchan,43.17,407.0
+2023-04,Papa Color,27.5,80.0
+2023-04,Papa Huamantanga,40.0,131.0
+2023-04,Papa Huayro,1.08,0.0
+2023-04,Papa Negra Andina,40.0,40.0
+2023-04,Papa Peruanita,16.5,33.0
+2023-04,Papa Unica,122.44,1583.0
+2023-05,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-05,Maiz Morado,3.06,95.0
+2023-05,Papa Amarilla,1.73,307.0
+2023-05,Papa Blanca,0.75,15411.0
+2023-05,Papa Canchan,60.17,231.0
+2023-05,Papa Color,22.5,37.0
+2023-05,Papa Huamantanga,16.0,91.0
+2023-05,Papa Huayro,0.95,0.0
+2023-05,Papa Peruanita,16.33,0.0
+2023-05,Papa Unica,57.61,973.0
+2023-06,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-06,Maiz Morado,2.56,20.0
+2023-06,Papa Amarilla,1.41,434.0
+2023-06,Papa Blanca,0.71,14660.0
+2023-06,Papa Canchan,48.39,271.0
+2023-06,Papa Color,17.67,55.0
+2023-06,Papa Huamantanga,,23.0
+2023-06,Papa Huayro,0.91,0.0
+2023-06,Papa Peruanita,22.0,21.0
+2023-06,Papa Unica,134.89,1411.0
+2023-07,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-07,Maiz Morado,3.29,44.0
+2023-07,Papa Amarilla,1.76,301.0
+2023-07,Papa Blanca,0.75,13368.0
+2023-07,Papa Canchan,39.82,154.0
+2023-07,Papa Color,53.0,31.0
+2023-07,Papa Huamantanga,23.0,64.0
+2023-07,Papa Huayro,1.05,0.0
+2023-07,Papa Negra Andina,15.0,15.0
+2023-07,Papa Peruanita,1.0,0.0
+2023-07,Papa Unica,100.97,1098.0
+2023-08,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-08,Maiz Morado,2.87,25.0
+2023-08,Papa Amarilla,2.36,1371.0
+2023-08,Papa Blanca,0.65,12465.0
+2023-08,Papa Canchan,16.29,75.0
+2023-08,Papa Color,21.0,50.0
+2023-08,Papa Huamantanga,,4.0
+2023-08,Papa Huayro,1.08,0.0
+2023-08,Papa Peruanita,10.0,1.0
+2023-08,Papa Unica,77.75,832.0
+2023-09,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-09,Maiz Morado,2.2,0.0
+2023-09,Papa Amarilla,3.62,1399.0
+2023-09,Papa Blanca,0.67,12687.0
+2023-09,Papa Canchan,19.71,29.0
+2023-09,Papa Color,22.0,79.0
+2023-09,Papa Huamantanga,,52.0
+2023-09,Papa Huayro,1.08,0.0
+2023-09,Papa Unica,53.15,755.0
+2023-10,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-10,Maiz Morado,1.96,25.0
+2023-10,Papa Amarilla,3.76,276.0
+2023-10,Papa Blanca,0.82,11955.0
+2023-10,Papa Canchan,21.0,46.0
+2023-10,Papa Color,11.17,0.0
+2023-10,Papa Huamantanga,,8.0
+2023-10,Papa Huayro,1.11,1.0
+2023-10,Papa Negra Andina,10.0,10.0
+2023-10,Papa Peruanita,23.0,0.0
+2023-10,Papa Unica,57.38,645.0
+2023-11,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2023-11,Maiz Morado,1.99,30.0
+2023-11,Papa Amarilla,3.99,381.0
+2023-11,Papa Blanca,1.13,13204.0
+2023-11,Papa Canchan,24.5,78.0
+2023-11,Papa Color,7.5,2.0
+2023-11,Papa Huamantanga,,19.0
+2023-11,Papa Huayro,1.32,0.0
+2023-11,Papa Negra Andina,12.0,36.0
+2023-11,Papa Peruanita,24.67,30.0
+2023-11,Papa Unica,62.5,866.0
+2023-12,Maiz Marlo / Coronta De Maiz,9.65,0.0
+2023-12,Maiz Morado,2.28,63.0
+2023-12,Papa Amarilla,3.49,303.0
+2023-12,Papa Blanca,1.3,13742.0
+2023-12,Papa Canchan,21.71,126.0
+2023-12,Papa Color,10.0,3.0
+2023-12,Papa Huamantanga,4.0,0.0
+2023-12,Papa Huayro,1.3,0.0
+2023-12,Papa Negra Andina,14.4,72.0
+2023-12,Papa Peruanita,14.0,35.0
+2023-12,Papa Unica,77.0,1097.0
+2024-01,Maiz Marlo / Coronta De Maiz,9.94,0.0
+2024-01,Maiz Morado,3.18,29.0
+2024-01,Papa Amarilla,3.07,139.0
+2024-01,Papa Blanca,1.0,12538.0
+2024-01,Papa Canchan,9.0,0.0
+2024-01,Papa Color,22.67,70.0
+2024-01,Papa Huamantanga,48.75,113.0
+2024-01,Papa Huayro,,36.35
+2024-01,Papa Negra Andina,2.65,13.0
+2024-01,Papa Peruanita,1.17,167.0
+2024-01,Papa Unica,1.0,2205.0
+2024-02,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-02,Maiz Morado,3.3,24.0
+2024-02,Papa Amarilla,2.16,249.0
+2024-02,Papa Blanca,0.82,15731.0
+2024-02,Papa Canchan,43.67,109.0
+2024-02,Papa Color,42.4,206.0
+2024-02,Papa Huamantanga,47.2,96.0
+2024-02,Papa Huayro,,27.0
+2024-02,Papa Negra Andina,1.81,0.0
+2024-02,Papa Peruanita,1.13,232.0
+2024-02,Papa Unica,0.82,1798.0
+2024-03,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-03,Maiz Morado,2.12,36.0
+2024-03,Papa Amarilla,1.93,174.0
+2024-03,Papa Blanca,0.86,17570.0
+2024-03,Papa Canchan,27.0,42.0
+2024-03,Papa Color,63.33,243.0
+2024-03,Papa Huamantanga,53.57,133.0
+2024-03,Papa Huayro,21.0,25.5
+2024-03,Papa Negra Andina,1.51,62.0
+2024-03,Papa Peruanita,1.25,316.0
+2024-03,Papa Unica,0.86,2067.0
+2024-04,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-04,Maiz Morado,2.06,44.0
+2024-04,Papa Amarilla,1.67,112.0
+2024-04,Papa Blanca,0.85,17195.0
+2024-04,Papa Canchan,25.0,0.0
+2024-04,Papa Color,89.0,476.0
+2024-04,Papa Huamantanga,59.2,148.0
+2024-04,Papa Huayro,30.0,25.1
+2024-04,Papa Negra Andina,1.39,2.0
+2024-04,Papa Peruanita,1.24,339.0
+2024-04,Papa Unica,0.85,1713.0
+2024-05,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-05,Maiz Morado,2.14,51.0
+2024-05,Papa Amarilla,2.15,206.0
+2024-05,Papa Blanca,0.93,17874.0
+2024-05,Papa Canchan,21.92,50.0
+2024-05,Papa Color,10.0,66.0
+2024-05,Papa Huamantanga,76.38,108.0
+2024-05,Papa Huayro,51.17,28.2
+2024-05,Papa Negra Andina,1.36,4.0
+2024-05,Papa Peruanita,1.35,204.0
+2024-05,Papa Unica,0.93,1487.0
+2024-06,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-06,Maiz Morado,2.2,15.0
+2024-06,Papa Amarilla,2.94,113.0
+2024-06,Papa Blanca,1.02,16272.0
+2024-06,Papa Canchan,20.56,47.0
+2024-06,Papa Color,,165.0
+2024-06,Papa Huamantanga,41.5,120.0
+2024-06,Papa Huayro,27.0,31.6
+2024-06,Papa Negra Andina,1.6,22.0
+2024-06,Papa Peruanita,1.6,50.0
+2024-06,Papa Unica,1.02,2091.0
+2024-07,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-07,Maiz Morado,2.23,21.0
+2024-07,Papa Amarilla,3.41,209.0
+2024-07,Papa Blanca,1.31,14945.0
+2024-07,Papa Canchan,18.14,0.0
+2024-07,Papa Color,,214.0
+2024-07,Papa Huamantanga,53.55,74.0
+2024-07,Papa Huayro,21.75,42.9
+2024-07,Papa Negra Andina,1.95,0.0
+2024-07,Papa Peruanita,1.64,23.0
+2024-07,Papa Unica,1.31,1410.0
+2024-08,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-08,Maiz Morado,1.8,2.0
+2024-08,Papa Amarilla,4.05,130.0
+2024-08,Papa Blanca,1.88,12667.0
+2024-08,Papa Canchan,22.33,20.0
+2024-08,Papa Color,,244.0
+2024-08,Papa Huamantanga,34.56,219.0
+2024-08,Papa Huayro,21.5,56.3
+2024-08,Papa Negra Andina,2.25,0.0
+2024-08,Papa Peruanita,1.47,119.0
+2024-08,Papa Unica,1.88,1933.0
+2024-09,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-09,Maiz Morado,1.77,17.0
+2024-09,Papa Amarilla,3.1,59.0
+2024-09,Papa Blanca,2.06,6973.0
+2024-09,Papa Canchan,15.25,61.0
+2024-09,Papa Color,15.5,61.0
+2024-09,Papa Huamantanga,31.83,66.0
+2024-09,Papa Huayro,22.0,62.8
+2024-09,Papa Negra Andina,2.49,23.0
+2024-09,Papa Peruanita,1.16,56.0
+2024-09,Papa Unica,2.07,1619.0
+2024-10,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-10,Maiz Morado,1.91,14.0
+2024-10,Papa Amarilla,2.35,184.0
+2024-10,Papa Blanca,1.89,9045.0
+2024-10,Papa Canchan,9.43,38.0
+2024-10,Papa Color,,40.0
+2024-10,Papa Huamantanga,31.85,150.0
+2024-10,Papa Huayro,,61.1
+2024-10,Papa Negra Andina,2.35,60.0
+2024-10,Papa Peruanita,0.85,33.0
+2024-10,Papa Unica,1.89,1718.0
+2024-11,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-11,Maiz Morado,1.74,64.0
+2024-11,Papa Amarilla,2.1,115.0
+2024-11,Papa Blanca,1.37,9934.0
+2024-11,Papa Canchan,28.0,33.0
+2024-11,Papa Color,20.75,156.0
+2024-11,Papa Huamantanga,35.4,113.0
+2024-11,Papa Huayro,,45.8
+2024-11,Papa Negra Andina,2.14,55.0
+2024-11,Papa Peruanita,0.62,0.0
+2024-11,Papa Unica,1.37,1363.0
+2024-12,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2024-12,Maiz Morado,1.72,23.0
+2024-12,Papa Amarilla,1.85,107.0
+2024-12,Papa Blanca,0.89,12465.0
+2024-12,Papa Canchan,66.07,509.0
+2024-12,Papa Color,22.5,163.0
+2024-12,Papa Huamantanga,30.25,123.0
+2024-12,Papa Huayro,,33.7
+2024-12,Papa Negra Andina,1.72,29.0
+2024-12,Papa Peruanita,0.54,100.0
+2024-12,Papa Unica,0.89,1517.0
+2025-01,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-01,Maiz Morado,1.97,17.0
+2025-01,Papa Amarilla,2.33,151.0
+2025-01,Papa Blanca,0.75,14143.0
+2025-01,Papa Canchan,0.66,1063.0
+2025-01,Papa Color,23.75,133.0
+2025-01,Papa Huamantanga,1.87,741.0
+2025-01,Papa Huayro,,7.0
+2025-01,Papa Peruanita,18.4,38.0
+2025-01,Papa Unica,60.09,767.0
+2025-02,Maiz Marlo / Coronta De Maiz,10.04,0.0
+2025-02,Maiz Morado,2.05,69.0
+2025-02,Papa Amarilla,2.8,125.0
+2025-02,Papa Blanca,0.77,16093.0
+2025-02,Papa Canchan,0.76,788.0
+2025-02,Papa Color,19.17,60.0
+2025-02,Papa Huamantanga,1.9,487.0
+2025-02,Papa Huayro,,20.0
+2025-02,Papa Negra Andina,7.0,0.0
+2025-02,Papa Peruanita,25.0,81.0
+2025-02,Papa Unica,52.36,1069.0
+2025-03,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-03,Maiz Morado,1.99,86.0
+2025-03,Papa Amarilla,2.58,209.0
+2025-03,Papa Blanca,0.71,19625.0
+2025-03,Papa Canchan,0.92,602.0
+2025-03,Papa Color,20.5,2.0
+2025-03,Papa Huamantanga,1.72,674.0
+2025-03,Papa Huayro,,21.0
+2025-03,Papa Negra Andina,16.0,0.0
+2025-03,Papa Peruanita,25.89,22.0
+2025-03,Papa Unica,68.78,993.0
+2025-04,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-04,Maiz Morado,2.33,54.0
+2025-04,Papa Amarilla,2.61,151.0
+2025-04,Papa Blanca,0.82,18958.0
+2025-04,Papa Canchan,1.28,1031.0
+2025-04,Papa Color,13.2,60.0
+2025-04,Papa Huamantanga,1.71,472.0
+2025-04,Papa Huayro,22.0,134.0
+2025-04,Papa Negra Andina,14.0,0.0
+2025-04,Papa Peruanita,25.86,17.0
+2025-04,Papa Unica,98.95,1191.0
+2025-05,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-05,Maiz Morado,2.94,31.0
+2025-05,Papa Amarilla,2.48,164.0
+2025-05,Papa Blanca,0.9,24224.0
+2025-05,Papa Canchan,1.23,1138.0
+2025-05,Papa Color,49.86,47.0
+2025-05,Papa Huamantanga,1.65,695.0
+2025-05,Papa Huayro,4.0,128.0
+2025-05,Papa Negra Andina,6.0,0.0
+2025-05,Papa Peruanita,36.82,31.0
+2025-05,Papa Unica,40.0,337.0
+2025-06,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-06,Maiz Morado,3.52,1.0
+2025-06,Papa Amarilla,2.48,91.0
+2025-06,Papa Blanca,1.07,17559.0
+2025-06,Papa Canchan,1.17,773.0
+2025-06,Papa Color,40.83,68.0
+2025-06,Papa Huamantanga,1.56,955.0
+2025-06,Papa Huayro,,277.0
+2025-06,Papa Peruanita,23.0,25.0
+2025-06,Papa Unica,53.24,561.0
+2025-07,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-07,Maiz Morado,2.93,53.0
+2025-07,Papa Amarilla,2.22,219.0
+2025-07,Papa Blanca,1.08,15358.0
+2025-07,Papa Canchan,1.11,407.0
+2025-07,Papa Color,24.44,143.0
+2025-07,Papa Huamantanga,1.59,670.0
+2025-07,Papa Huayro,,179.0
+2025-07,Papa Peruanita,17.0,20.0
+2025-07,Papa Unica,54.7,385.0
+2025-08,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-08,Maiz Morado,2.82,44.0
+2025-08,Papa Amarilla,2.38,176.0
+2025-08,Papa Blanca,1.14,13706.0
+2025-08,Papa Canchan,0.96,492.0
+2025-08,Papa Color,49.0,53.0
+2025-08,Papa Huamantanga,1.56,302.0
+2025-08,Papa Huayro,15.5,31.0
+2025-08,Papa Peruanita,23.0,0.0
+2025-08,Papa Unica,47.71,413.0
+2025-09,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-09,Maiz Morado,2.16,20.0
+2025-09,Papa Amarilla,2.17,93.0
+2025-09,Papa Blanca,1.05,9810.0
+2025-09,Papa Canchan,0.94,579.0
+2025-09,Papa Color,25.17,70.0
+2025-09,Papa Huamantanga,1.48,300.0
+2025-09,Papa Huayro,8.0,46.0
+2025-09,Papa Peruanita,21.0,0.0
+2025-09,Papa Unica,44.57,480.0
+2025-10,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-10,Maiz Morado,2.8,12.0
+2025-10,Papa Amarilla,2.1,226.0
+2025-10,Papa Blanca,0.88,9717.0
+2025-10,Papa Canchan,0.98,117.0
+2025-10,Papa Color,30.38,188.0
+2025-10,Papa Huamantanga,1.65,258.0
+2025-10,Papa Huayro,10.0,0.0
+2025-10,Papa Negra Andina,9.0,0.0
+2025-10,Papa Unica,53.95,539.0
+2025-11,Maiz Marlo / Coronta De Maiz,10.0,0.0
+2025-11,Maiz Morado,2.79,12.0
+2025-11,Papa Amarilla,1.81,287.0
+2025-11,Papa Blanca,0.67,12199.0
+2025-11,Papa Canchan,0.91,358.0
+2025-11,Papa Color,20.18,191.0
+2025-11,Papa Huamantanga,2.0,298.0
+2025-11,Papa Huayro,16.0,0.0
+2025-11,Papa Negra Andina,10.75,0.0
+2025-11,Papa Peruanita,20.5,0.0
+2025-11,Papa Unica,46.94,450.0
+2025-12,Maiz Marlo / Coronta De Maiz,11.29,0.0
+2025-12,Maiz Morado,2.82,24.0
+2025-12,Papa Amarilla,2.55,207.0
+2025-12,Papa Blanca,0.62,13789.0
+2025-12,Papa Canchan,1.12,698.0
+2025-12,Papa Color,21.8,93.0
+2025-12,Papa Huamantanga,2.44,198.0
+2025-12,Papa Negra Andina,1.0,1.0
+2025-12,Papa Peruanita,20.0,20.0
+2025-12,Papa Unica,87.27,1272.0
+2026-01,Maiz Marlo / Coronta De Maiz,12.06,0.0
+2026-01,Maiz Morado,2.83,1.0
+2026-01,Papa Amarilla,10.83,178.0
+2026-01,Papa Blanca,406.29,6884.0
+2026-01,Papa Canchan,57.67,238.0
+2026-01,Papa Huamantanga,45.88,20.0
+2026-01,Papa Huayro,2.27,23.0
+2026-01,Papa Peruanita,66.5,561.0
+2026-02,Maiz Marlo / Coronta De Maiz,14.25,0.0
+2026-02,Maiz Morado,3.01,3.0
+2026-02,Papa Amarilla,14.4,101.0
+2026-02,Papa Blanca,573.36,8559.0
+2026-02,Papa Canchan,40.33,215.0
+2026-02,Papa Color,21.0,0.0
+2026-02,Papa Huamantanga,27.0,0.0
+2026-02,Papa Huayro,2.1,0.0
+2026-02,Papa Negra Andina,23.0,0.0
+2026-02,Papa Peruanita,38.71,425.0
+2026-03,Maiz Marlo / Coronta De Maiz,16.87,0.0
+2026-03,Maiz Morado,3.07,0.0
+2026-03,Papa Amarilla,15.18,116.0
+2026-03,Papa Blanca,649.03,10752.0
+2026-03,Papa Canchan,38.4,233.0
+2026-03,Papa Huamantanga,45.67,0.0
+2026-03,Papa Huayro,2.26,1.0
+2026-03,Papa Negra Andina,16.0,51.0
+2026-03,Papa Peruanita,72.0,763.0
+2026-04,Maiz Marlo / Coronta De Maiz,18.47,0.0
+2026-04,Maiz Morado,3.35,91.0
+2026-04,Papa Amarilla,27.5,163.0
+2026-04,Papa Blanca,684.13,7684.0
+2026-04,Papa Canchan,21.5,87.0
+2026-04,Papa Color,30.0,41.0
+2026-04,Papa Huamantanga,20.0,0.0
+2026-04,Papa Huayro,2.12,0.0
+2026-04,Papa Negra Andina,15.0,24.0
+2026-04,Papa Peruanita,46.86,650.0
+2026-05,Maiz Marlo / Coronta De Maiz,20.0,0.0
+2026-05,Maiz Morado,3.57,36.0
+2026-05,Papa Amarilla,22.09,110.0
+2026-05,Papa Blanca,666.81,6465.0
+2026-05,Papa Canchan,32.5,330.0
+2026-05,Papa Color,29.0,66.0
+2026-05,Papa Huamantanga,93.5,106.0
+2026-05,Papa Huayro,1.91,0.0
+2026-05,Papa Negra Andina,27.75,0.0
+2026-05,Papa Peruanita,35.13,529.0
+2026-06,Maiz Marlo / Coronta De Maiz,19.47,0.0
+2026-06,Maiz Morado,2.66,11.0
+2026-06,Papa Amarilla,13.25,87.0
+2026-06,Papa Blanca,707.63,6240.0
+2026-06,Papa Canchan,28.0,57.0
+2026-06,Papa Color,,24.0
+2026-06,Papa Huayro,1.67,0.0
+2026-06,Papa Negra Andina,19.5,0.0
+2026-06,Papa Peruanita,48.0,504.0
+2026-07,Maiz Marlo / Coronta De Maiz,18.0,0.0
+2026-07,Maiz Morado,2.23,13.0
+2026-07,Papa Amarilla,10.2,128.0
+2026-07,Papa Blanca,554.84,5557.0
+2026-07,Papa Canchan,,26.0
+2026-07,Papa Color,19.5,34.0
+2026-07,Papa Huayro,1.37,0.0
+2026-07,Papa Peruanita,27.89,368.0
+2026-08,Maiz Marlo / Coronta De Maiz,18.0,0.0
+2026-08,Maiz Morado,2.83,25.0
+2026-08,Papa Amarilla,21.73,287.0
+2026-08,Papa Blanca,462.06,5632.0
+2026-08,Papa Canchan,31.5,44.0
+2026-08,Papa Color,32.67,27.0
+2026-08,Papa Huayro,1.65,0.0
+2026-08,Papa Negra Andina,5.0,0.0
+2026-08,Papa Peruanita,50.5,668.0
+2026-09,Maiz Marlo / Coronta De Maiz,18.03,0.0
+2026-09,Maiz Morado,3.62,11.0
+2026-09,Papa Amarilla,12.9,73.0
+2026-09,Papa Blanca,466.03,6857.0
+2026-09,Papa Canchan,20.0,21.0
+2026-09,Papa Color,52.0,25.0
+2026-09,Papa Huamantanga,23.0,0.0
+2026-09,Papa Huayro,1.81,19.0
+2026-09,Papa Peruanita,20.6,39.0
